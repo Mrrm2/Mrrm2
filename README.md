@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Joseph's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=mrrm2&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![Joseph's GitHub stats](https://readme-stats-theta-seven.vercel.app/api?username=mrrm2&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrm2&show_icons=true&theme=dark&exclude_repo=1800_202230_DTC04&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/https://readme-stats-theta-seven.vercel.app/api/top-langs/?username=mrrm2&show_icons=true&theme=dark&exclude_repo=1800_202230_DTC04&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
