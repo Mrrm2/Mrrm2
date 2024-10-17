@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![Joseph's GitHub stats](https://readme-stats-theta-seven.vercel.app/api?username=mrrm2&show_icons=true&include_all_commits=true&count_private=true&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://readme-stats-theta-seven.vercel.app/api/top-langs/?username=mrrm2&show_icons=true&theme=dark&exclude_repo=1800_202230_DTC04,Trade_Journal,readme-stats&include_orgs=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-theta-seven.vercel.app/api/top-langs/?username=mrrm2&show_icons=true&theme=dark&exclude_repo=Trade_Journal&hide=html,shaderlab)](https://github.com/anuraghazra/github-readme-stats)
